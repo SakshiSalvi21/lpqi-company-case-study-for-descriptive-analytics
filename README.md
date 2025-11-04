@@ -1,10 +1,10 @@
 # LPQI Descriptive Analytics
 
-This repository packages the deliverables for the LPQI case study (Case Study 02): Excel workbooks, a Power BI report, a presentation, and a meeting recording. 
+This repository packages the deliverables for the LPQI case study : Excel workbooks, a Power BI report, a presentation, and a meeting recording. 
 
 ## Repository Structure
 ```
-project-2-lpqi-descriptive-analytics/
+lpqi-case-study-for-descriptive-analytics/
 ├─ excel/                # data dictionaries, modeling workbooks
 ├─ data/
 │  ├─ raw/               # source inputs 
